@@ -1,0 +1,28 @@
+<div class="overlay">
+  <div class="settings">
+    <h1>Settings</h1>
+    <button class="close-button" (click)="close()">
+      <fa name="times" size="3x"></fa>
+    </button>
+    <form [formGroup]="settingsForm" (ngSubmit)="save()">
+      <div formGroupName="address" class="group">
+        <label for="">Address</label>
+        <div>
+          <input formControlName="street" placeholder="Street Address" type="text">
+          <input formControlName="number" placeholder="Dept./off #" type="text">
+        </div>  
+        <input formControlName="name" placeholder="Apartment name" type="text">
+      </div>
+      <div class="group">
+        <label for="">Name</label>
+        <input formControlName="name" placeholder="John Doe" type="text">
+      </div>
+      <div class="group">
+        <label for="">Phone number</label>
+        <input formControlName="phone" placeholder="(555) 555 5555" type="tel">
+      </div>
+      <button type="submit" [disabled]="!settingsForm.valid" class="save-button">Save</button>
+    </form>
+  </div>
+</div>
+

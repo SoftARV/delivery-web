@@ -1,0 +1,123 @@
+.details {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-image: url('../../../assets/img/back_crosses.png');
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: 100% 20px;
+  background-color: #ffffff;
+  color: #55565A;
+  &.empty {
+    justify-content: center;
+    align-items: center;
+    color: #4291be;
+    font-size: 34px;
+  }
+  .back-button {
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    left: 20px;
+    padding: 0;
+    align-self: flex-start;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: #4291be;
+    font-size: 24px;
+    font-weight: normal;
+  }
+  .product {
+    margin-top: 50px;
+    height: 100%;
+    padding: 100px 100px;
+    position: relative;
+    .group {
+      display: flex;
+      align-items: center;
+      p {
+        width: 100px;
+        text-align: end;
+        margin-right: 20px;
+        font-size: 24px;
+        &:last-child {
+          flex: 1;
+          text-align: start;
+        }
+      }
+      &.price {
+        p {
+          font-weight: 500;
+        }
+      }
+    }
+    .quantity-control {
+      position: absolute;
+      bottom: 30px;
+      left: 30px;
+      width: 250px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      input {
+        height: 50px;
+        width: 40px;
+        padding: 0 20px;
+        font-size: 18px;
+        border: none;
+        text-align: center;
+        background-color: #4291be;
+        color: #ffffff;
+      }
+      button {
+        color: #4291be;
+        background: none;
+        border: none;
+        font-size: 36px;
+        margin: 0 10px;
+        height: 40px;
+        width: 40px;
+        padding: 0;
+      }
+    }
+    #cart {
+      text-transform: uppercase;
+      font-size: 16px;
+      font-weight: 600;
+      position: absolute;
+      bottom: 30px;
+      right: 30px;
+      height: 50px;
+      width: 250px;
+      background-color: #4291be;
+      border: none;
+      color: #fff;
+      &:hover {
+        background-color: #4290bee1;
+      }
+    }
+  }
+}
+
+@media(max-width: 800px) {
+  .details {
+    background-size: 150px;
+    .product {
+      padding: 20px 20px;
+      .quantity-control {
+        bottom: 80px;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+      }
+      #cart {
+        bottom: 20px;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+      }
+    }
+  }
+}

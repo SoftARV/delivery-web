@@ -1,0 +1,17 @@
+.home {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  app-list {
+    flex: 1;
+  }
+  app-details {
+    flex:2;
+  }
+}
+
+@media (max-width: 800px) {
+  .home {
+    display: block;
+  }
+}

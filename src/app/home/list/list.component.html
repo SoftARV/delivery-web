@@ -1,0 +1,23 @@
+<div class="list" [ngClass]="{'hidden': productSelected}">
+  <div class="header">
+    <img src="assets/img/logo_guardian_white.svg" alt="Farmacias Guardian">
+    <button (click)="openSettings()" type="button">
+      <fa name="cog" size="2x"></fa>
+    </button>
+  </div>
+  <div class="search">
+    <input placeholder="Search" type="text">
+  </div>
+  <ul #list>
+    <li 
+      *ngFor="let product of products"
+      [ngClass]="{'active': productSelected === product}"
+      (click)="onItemSelect(product)">
+      <span>{{product.description}}</span>
+      <span>{{product.barcode}}</span>
+    </li>
+  </ul>
+  <button class="cart" (click)="openShoppingCart()" type="button">
+    <fa name="shopping-cart" size="3x"></fa>
+  </button>
+</div>

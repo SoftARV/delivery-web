@@ -1,0 +1,4 @@
+<div class="home">
+  <app-list #list (product)="details.product = $event"></app-list>
+  <app-details #details (back)="list.productSelected = null"></app-details>
+</div>

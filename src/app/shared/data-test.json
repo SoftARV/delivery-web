@@ -1,0 +1,757 @@
+{
+    "products": [
+        {
+            "code": "116019112835143",
+            "description": "ALKA CARAMELO CEREZA",
+            "Existencia": "27",
+            "price": "280",
+            "type": "CONFITERIA",
+            "barcode": "78020146"
+        },
+        {
+            "code": "116020113352744",
+            "description": "ALKA CARAMELO UVA",
+            "Existencia": "26",
+            "price": "280",
+            "type": "CONFITERIA",
+            "barcode": "78022348"
+        },
+        {
+            "code": "115755122841578",
+            "description": "ALKA CARAMELOS MENTOL",
+            "Existencia": "42",
+            "price": "280",
+            "type": "CONFITERIA",
+            "barcode": "78012547"
+        },
+        {
+            "code": "110962112854849",
+            "description": "ALKA MENTA",
+            "Existencia": "14",
+            "price": "280",
+            "type": "CONFITERIA",
+            "barcode": "78021365"
+        },
+        {
+            "code": "110954111325821",
+            "description": "ALKA MIEL",
+            "Existencia": "39",
+            "price": "280",
+            "type": "CONFITERIA",
+            "barcode": "78020153"
+        },
+        {
+            "code": "110953111042114",
+            "description": "ALKA STRONG",
+            "Existencia": "53",
+            "price": "280",
+            "type": "CONFITERIA",
+            "barcode": "78012554"
+        },
+        {
+            "code": "111022",
+            "description": "ALLEDRYL JBE 5MG/5ML X 60 ML",
+            "Existencia": "1",
+            "price": "8220",
+            "type": "MARCA",
+            "Homólogos": "LORATADINA  JARABE 5MG/5ML X 60 ML",
+            "Equivalentes": "LORATADINA",
+            "barcode": "7804918401149"
+        },
+        {
+            "code": "7803504000537",
+            "description": "ALOELAX CAP X 24  KNOP",
+            "Existencia": "2",
+            "price": "3000",
+            "type": "NATURALES",
+            "Homólogos": "ALOE 130 MG + LINAZA 130 MG CAP X 24",
+            "Equivalentes": "ALOE + LINAZA",
+            "barcode": "7803504000537"
+        },
+        {
+            "code": "110818133639206",
+            "description": "AMLODIPINO 5 MG X 30 COM",
+            "Existencia": "9",
+            "price": "860",
+            "type": "GENERICO BE",
+            "Homólogos": "AMLODIPINO COM 5 MG X 30",
+            "Equivalentes": "AMLODIPINO",
+            "barcode": "7800063116600"
+        },
+        {
+            "code": "236001",
+            "description": "ARTHROZEEL COM X 50  HEEL",
+            "Existencia": "1",
+            "price": "15010",
+            "type": "NATURALES",
+            "barcode": "7809561400518"
+        },
+        {
+            "code": "111485165104717",
+            "description": "BETAMETASONA SOD 4MG/1ML X 5 AMP",
+            "Existencia": "1",
+            "price": "9010",
+            "type": "GENERICO",
+            "Homólogos": "BETAMETAZONA 4 MG X 5 AMP",
+            "Equivalentes": "BETAMETASONA",
+            "barcode": "7800061001212"
+        },
+        {
+            "code": "110969114357420",
+            "description": "BIGTIME SANDIA",
+            "Existencia": "48",
+            "price": "370",
+            "type": "CONFITERIA",
+            "barcode": "78007505"
+        },
+        {
+            "code": "110971114932306",
+            "description": "BIGTIME ULTRA CLEAN",
+            "Existencia": "12",
+            "price": "1080",
+            "type": "CONFITERIA",
+            "barcode": "7794612413848"
+        },
+        {
+            "code": "115757123722729",
+            "description": "BIGTIME ULTRA REDBERRY",
+            "Existencia": "30",
+            "price": "1080",
+            "type": "CONFITERIA",
+            "barcode": "7794612413831"
+        },
+        {
+            "code": "112458132217830",
+            "description": "BISOLVON JBE 4 MG X 120 ML",
+            "Existencia": "10",
+            "price": "3860",
+            "type": "MARCA",
+            "Equivalentes": "BROMHEXINA",
+            "barcode": "7800058535379"
+        },
+        {
+            "code": "33031",
+            "description": "BLISTEX CRE LAB MEDICADA X 6 GR",
+            "Existencia": "6",
+            "price": "2120",
+            "type": "CUIDADO PERSONAL",
+            "Equivalentes": "ALCANFOR/FENOL",
+            "barcode": "7800008020023"
+        },
+        {
+            "code": "117173193507972",
+            "description": "BRIMOPRESS SOL OFT 0.2% X 15 ML",
+            "Existencia": "1",
+            "price": "33270",
+            "type": "MARCA",
+            "barcode": "7795368001945"
+        },
+        {
+            "code": "199041",
+            "description": "COTRIMOXAZOL FTE X 10 COM",
+            "Existencia": "26",
+            "price": "960",
+            "type": "GENERICO",
+            "Homólogos": "COTRIMOXAZOL COM FTE X 10",
+            "Equivalentes": "SULFAMETOXAZOL/TRIMETOPRIMA",
+            "barcode": "7800086703108"
+        },
+        {
+            "code": "6206",
+            "description": "DERMABIOTICO UNG X 15 GR",
+            "Existencia": "1",
+            "price": "5970",
+            "type": "MARCA",
+            "Homólogos": "POLIMIXINA B/ BACITRACINA 10.000 UI/ 5.00 UI UNG. DERM",
+            "Equivalentes": "POLIMIXINAB/BACITRACINA",
+            "barcode": "7800060011205"
+        },
+        {
+            "code": "103018",
+            "description": "DIAVITAL LACTASA COM X 30",
+            "Existencia": "4",
+            "price": "9680",
+            "type": "NATURALES",
+            "Homólogos": "LACTASA COM X 30",
+            "Equivalentes": "LACTASA",
+            "barcode": "7800004001514"
+        },
+        {
+            "code": "161140",
+            "description": "DOBLE COD",
+            "Existencia": "8",
+            "price": "3430",
+            "type": "MARCA",
+            "Equivalentes": "PARGEVERINA",
+            "barcode": "1005611005610"
+        },
+        {
+            "code": "054178",
+            "description": "DRYSOL SOL.20% 35ML.",
+            "Existencia": "1",
+            "price": "24110",
+            "type": "DERMOCOSMETICA",
+            "barcode": "001256894139"
+        },
+        {
+            "code": "199254",
+            "description": "ENALAPRIL 5 MG X 20 COM",
+            "Existencia": "35",
+            "price": "240",
+            "type": "GENERICO BE",
+            "Homólogos": "ENALAPRIL COM 5 MG X 30",
+            "Equivalentes": "ENALAPRIL",
+            "barcode": "7800063110806"
+        },
+        {
+            "code": "111673160829381",
+            "description": "ESCITALOPRAM 10 MG X 30 COM",
+            "Existencia": "8",
+            "price": "5020",
+            "type": "GENERICO BE",
+            "Homólogos": "ESCITALOPRAM COM 10 MG X 30",
+            "Equivalentes": "ESCITALOPRAM",
+            "barcode": "7800063115856"
+        },
+        {
+            "code": "117174193619514",
+            "description": "ETOZOX 120 MG X 7 COM",
+            "Existencia": "2",
+            "price": "8100",
+            "type": "MARCA",
+            "barcode": "8901117245105"
+        },
+        {
+            "code": "117175193718919",
+            "description": "ETOZOX 60 MG X 14 COM",
+            "Existencia": "1",
+            "price": "7170",
+            "type": "MARCA",
+            "barcode": "8901117245112"
+        },
+        {
+            "code": "270827",
+            "description": "F.SET APOSITO  6X7CM.3 \r\n V 07-2021  S 2018-07",
+            "Existencia": "14",
+            "price": "960",
+            "type": "INSUMOS MEDICOS",
+            "barcode": "7805633008132"
+        },
+        {
+            "code": "271170",
+            "description": "F.SET CURITA CLASICO.X100 \r\n V 09-2023  S 201809F",
+            "Existencia": "9",
+            "price": "1090",
+            "type": "INSUMOS MEDICOS",
+            "barcode": "7805633001997"
+        },
+        {
+            "code": "113173191748891",
+            "description": "FAMILY SET CURITA CLASICA PIEL X 20",
+            "Existencia": "22",
+            "price": "2010",
+            "type": "INSUMOS MEDICOS",
+            "barcode": "7805633002000"
+        },
+        {
+            "code": "112873162552013",
+            "description": "GEMFIBROZILO 600 MG X 20 COM",
+            "Existencia": "2",
+            "price": "2800",
+            "type": "MARCA BE",
+            "Homólogos": "GEMFIBROZILO COM 600 MG X 20",
+            "Equivalentes": "GEMFIBROZILO",
+            "barcode": "7800063116594"
+        },
+        {
+            "code": "1054",
+            "description": "GINEDAZOL X 10 OVULOS T-A",
+            "Existencia": "1",
+            "price": "16210",
+            "type": "MARCA",
+            "Homólogos": "TINIDAZOL/MICONAZOL OV X 10",
+            "Equivalentes": "TINIDAZOL/MICONAZOL",
+            "barcode": "7800007163653"
+        },
+        {
+            "code": "111627125210498",
+            "description": "GLAUPAX 500 MG X 30 COM",
+            "Existencia": "6",
+            "price": "4680",
+            "type": "MARCA BE",
+            "Homólogos": "METFORMINA COM 500 MG X 30",
+            "Equivalentes": "METFORMINA",
+            "barcode": "7800068012259"
+        },
+        {
+            "code": "271923",
+            "description": "GLUCERNA SHAKE VAINILLA X 237 ML",
+            "Existencia": "6",
+            "price": "2030",
+            "type": "LECHES",
+            "barcode": "070074113760"
+        },
+        {
+            "code": "8427030001722",
+            "description": "GLUCERNA VAINILLA 900GR",
+            "Existencia": "1",
+            "price": "17820",
+            "type": "LECHES",
+            "barcode": "8886451001375;8710428022165"
+        },
+        {
+            "code": "250182",
+            "description": "HUB COMP.FRIO/CAL.C/FUNDA \r\n V 09-2022  S CJ18538",
+            "Existencia": "4",
+            "price": "2530",
+            "type": "INSUMOS MEDICOS",
+            "barcode": "7805633003205"
+        },
+        {
+            "code": "12036",
+            "description": "KETOROLACO 10 MG X 10 COM",
+            "Existencia": "36",
+            "price": "570",
+            "type": "GENERICO",
+            "Homólogos": "KETOROLACO COM 10 MG X 10",
+            "Equivalentes": "KETOROLACO",
+            "barcode": "7800063111483"
+        },
+        {
+            "code": "66107",
+            "description": "LABOSALIC LOC.20ML.",
+            "Existencia": "1",
+            "price": "18660",
+            "type": "MARCA",
+            "Homólogos": "BETAMETASONA+AC. SALICILICO 0,5 MG/ 20 MG  LOC. TOPICA",
+            "Equivalentes": "BETAMETASONA",
+            "barcode": "7809591401141"
+        },
+        {
+            "code": "113124173913638",
+            "description": "LACTULOSA SOL 65 % 200 ML",
+            "Existencia": "2",
+            "price": "3510",
+            "type": "MARCA BE",
+            "Homólogos": "LACTULOSA SOL 65 % 200 ML",
+            "Equivalentes": "LACTULOSA",
+            "barcode": "7800063130576"
+        },
+        {
+            "code": "1391",
+            "description": "LADY-TEN 35 COM X 21",
+            "Existencia": "1",
+            "price": "17120",
+            "type": "MARCA",
+            "Homólogos": "CIPROTERONA 2 MG / ETINILESTRADIOL 0,035 MG X 21",
+            "Equivalentes": "CIPROTERONA/ETINILESTRADIOL",
+            "barcode": "7800007713230"
+        },
+        {
+            "code": "111638140921386",
+            "description": "LALERGIC GOTAS 5ML X 20 ML",
+            "Existencia": "1",
+            "price": "6480",
+            "type": "MARCA BE",
+            "Homólogos": "LEVOCETIRIZINA GOTAS 20 ML",
+            "Equivalentes": "LEVOCETIRIZINA",
+            "barcode": "7800063330860"
+        },
+        {
+            "code": "7800097000654",
+            "description": "MENTIX 100 MG X 30 COM",
+            "price": "24590",
+            "type": "MARCA",
+            "barcode": "7730698014777"
+        },
+        {
+            "code": "110741152315364",
+            "description": "MERPAL DAL SUSP 120ML",
+            "Existencia": "1",
+            "price": "7700",
+            "type": "MARCA",
+            "Homólogos": "DICLOFENACO SUS X 120 ML",
+            "Equivalentes": "DICLOFENACO ACIDO LIBRE",
+            "barcode": "7804918500668"
+        },
+        {
+            "code": "41021",
+            "description": "METROPAST 500 MG X 10 COM",
+            "Existencia": "1",
+            "price": "4580",
+            "type": "MARCA BE",
+            "Homólogos": "METRONIDAZOL 500 MG X 10",
+            "Equivalentes": "METRONIDAZOL",
+            "barcode": "7800068013508"
+        },
+        {
+            "code": "45005",
+            "description": "MUCIVIL SP SOL TOP 1% X 20 ML",
+            "Existencia": "3",
+            "price": "3430",
+            "type": "MARCA",
+            "Equivalentes": "TERBINAFINA",
+            "barcode": "7804918500576;9548295482954"
+        },
+        {
+            "code": "7809561400082",
+            "description": "NERVOHEEL COM X 50 HEEL",
+            "Existencia": "2",
+            "price": "13080",
+            "type": "NATURALES",
+            "barcode": "7809561400082"
+        },
+        {
+            "code": "112536154431002",
+            "description": "NICORETTE 4 MG X 30",
+            "Existencia": "1",
+            "price": "13610",
+            "type": "MARCA",
+            "barcode": "7891010979829"
+        },
+        {
+            "code": "193009",
+            "description": "NORAH X 21 COMP",
+            "Existencia": "1",
+            "price": "13270",
+            "type": "MARCA",
+            "Homólogos": "ETINILESTRADIOL 0.03MG/DIENOGEST 2MG COMP X 28",
+            "Equivalentes": "ETINILESTRADIOL/DIENOGEST",
+            "barcode": "7800007792358"
+        },
+        {
+            "code": "109973145612799",
+            "description": "NORMIX COMP REC 200 MG X 24",
+            "Existencia": "1",
+            "price": "28040",
+            "type": "MARCA",
+            "Homólogos": "RIFAXIMINA COM 200 MG X 10",
+            "Equivalentes": "RIFAXIMINA",
+            "barcode": "7800018163680"
+        },
+        {
+            "code": "6013",
+            "description": "OFTALIRIO SOL OFT X 10 ML",
+            "price": "8790",
+            "type": "MARCA",
+            "Homólogos": "NAFAZOLINA/ANTAZOLINA FOSF 10ML",
+            "Equivalentes": "NAFAZOLINA/ANTAZOLINA",
+            "barcode": "7800060003606"
+        },
+        {
+            "code": "111581163056057",
+            "description": "OLANZYL 10 MG X 28 COMP",
+            "Existencia": "1",
+            "price": "17500",
+            "type": "MARCA BE",
+            "Equivalentes": "OLANZAPINA",
+            "barcode": "7804606510498"
+        },
+        {
+            "code": "111578162219275",
+            "description": "ORALNE 20 MG X 30 CAP",
+            "Existencia": "1",
+            "price": "26400",
+            "type": "MARCA BE",
+            "Homólogos": "ISOTRETINOÍNA CAP 20 MG X 30",
+            "Equivalentes": "ISOTRETINOÍNA",
+            "barcode": "7804625950442"
+        },
+        {
+            "code": "58023",
+            "description": "OVESTIN OVULOS 0.5 MG X 15",
+            "Existencia": "2",
+            "price": "28060",
+            "type": "MARCA",
+            "barcode": "6091403215454;7800042131020"
+        },
+        {
+            "code": "158003",
+            "description": "PALTOMIEL ADL JBE X 200 ML KNOP",
+            "Existencia": "3",
+            "price": "2220",
+            "type": "NATURALES",
+            "Homólogos": "EXTRACTO PALTO/EUCALIPTO JBE AD 200ML",
+            "Equivalentes": "EXTRACTO DE PALTA/EUCALIPTUS",
+            "barcode": "7803504404106"
+        },
+        {
+            "code": "116260164039184",
+            "description": "PRIXIS 120 MG X 7 COMP",
+            "Existencia": "1",
+            "price": "16240",
+            "type": "MARCA",
+            "barcode": "7800026006665"
+        },
+        {
+            "code": "112556160417111",
+            "description": "PYRIPED 400 MG X 20 CAP",
+            "Existencia": "1",
+            "price": "2780",
+            "type": "MARCA BE",
+            "Homólogos": "IBUPROFENO CAP 400 MG X 20",
+            "Equivalentes": "IBUPROFENO",
+            "barcode": "7800063325262"
+        },
+        {
+            "code": "7804907855663",
+            "description": "RAY DE SOL GEL AFTERSUN C/ALOE 220 GR",
+            "Existencia": "6",
+            "price": "4190",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804907855663"
+        },
+        {
+            "code": "112890113656241",
+            "description": "RAYITO DE SOL AUTOBRON ACEIT MONOI 190 ML",
+            "Existencia": "6",
+            "price": "4190",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804907855656"
+        },
+        {
+            "code": "7804907882959",
+            "description": "RAYITO DE SOL AUTOBRONC 190ML",
+            "Existencia": "3",
+            "price": "4190",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804907882959"
+        },
+        {
+            "code": "113493131258918",
+            "description": "RAYTAN BALS LABIAL MENTA 8GR",
+            "Existencia": "6",
+            "price": "1380",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804916430226"
+        },
+        {
+            "code": "113492131133196",
+            "description": "RAYTAN BALS LABIAL VAINILLA/FRAMBUESA 8GR",
+            "Existencia": "4",
+            "price": "1380",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804916430233"
+        },
+        {
+            "code": "7804659890783",
+            "description": "RAYTAN DERMOP 50 ML FPS 50",
+            "Existencia": "12",
+            "price": "1590",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804659890783"
+        },
+        {
+            "code": "117165144925396",
+            "description": "RAYTAN DERMOP 50 ML KIDS FPS50",
+            "Existencia": "11",
+            "price": "1590",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804659890875"
+        },
+        {
+            "code": "7804616160157",
+            "description": "ROSAT 20MG",
+            "Existencia": "1",
+            "price": "12480",
+            "type": "MARCA BE",
+            "Homólogos": "ROSUVASTATINA 20 MG X 30",
+            "Equivalentes": "ROSUVASTATINA",
+            "barcode": "7800068014451"
+        },
+        {
+            "code": "113157182742795",
+            "description": "SENIOR CARE LOCION HUMECT PROF 400 ML",
+            "Existencia": "6",
+            "price": "1900",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7808718200759"
+        },
+        {
+            "code": "111705105301443",
+            "description": "SERTAC COMP 100 MG X 30",
+            "Existencia": "1",
+            "price": "21120",
+            "type": "MARCA",
+            "Homólogos": "SERTRALINA 100MG X 30 COMP",
+            "Equivalentes": "SERTRALINA",
+            "barcode": "7800018184678"
+        },
+        {
+            "code": "7804945014817",
+            "description": "SIMONDS PANT 1 LT FPS 30",
+            "Existencia": "1",
+            "price": "13770",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804945014817"
+        },
+        {
+            "code": "117167145414527",
+            "description": "SIMONDS PANT 1LT FPS 50+",
+            "Existencia": "1",
+            "price": "18260",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "7804945014831"
+        },
+        {
+            "code": "112239160749171",
+            "description": "SL PROPOL EUCAL CARAME X 10",
+            "Existencia": "21",
+            "price": "600",
+            "type": "NATURALES",
+            "Homólogos": "SL PROPOL EUCAL CARAME 10",
+            "Equivalentes": "CARAMELOS",
+            "barcode": "7805633013884"
+        },
+        {
+            "code": "110826160951793",
+            "description": "STUGERON 25 MG X 60 COM",
+            "Existencia": "1",
+            "price": "22770",
+            "type": "MARCA",
+            "Homólogos": "CINARIZINA CAP 25 MG X 45",
+            "Equivalentes": "CINARIZINA",
+            "barcode": "7805112000527"
+        },
+        {
+            "code": "111370171225515",
+            "description": "SULPILAN FORTE 300 MG X 20 CAP",
+            "Existencia": "1",
+            "price": "24130",
+            "type": "MARCA",
+            "Homólogos": "SULPIRIDA 300 MG X 20",
+            "Equivalentes": "SULPIRIDA",
+            "barcode": "7809591400366"
+        },
+        {
+            "code": "9217",
+            "description": "TENSIOMAX COM 5 MG X 20",
+            "Existencia": "2",
+            "price": "4390",
+            "type": "MARCA",
+            "Homólogos": "CICLOBENZAPRINA COM 5 MG X 20",
+            "Equivalentes": "CICLOBENZAPRINA",
+            "barcode": "7800028000944"
+        },
+        {
+            "code": "199151",
+            "description": "TETRACICLINA CAP 500 MG X 8 MINT",
+            "Existencia": "11",
+            "price": "1300",
+            "type": "GENERICO",
+            "Homólogos": "TETRACICLINA 500MG X 8 CAPS",
+            "Equivalentes": "TETRACICLINA",
+            "barcode": "7800063120027"
+        },
+        {
+            "code": "108042165215007",
+            "description": "TIOF PLUS SOL OFT 10 ML",
+            "Existencia": "1",
+            "price": "25030",
+            "type": "MARCA",
+            "barcode": "7800060039803"
+        },
+        {
+            "code": "513010",
+            "description": "TRAUMEEL S COM X 50",
+            "Existencia": "2",
+            "price": "12750",
+            "type": "NATURALES",
+            "barcode": "7809561400143"
+        },
+        {
+            "code": "112618172235012",
+            "description": "TRICOXANE 5% X 100 ML",
+            "Existencia": "1",
+            "price": "30000",
+            "type": "MARCA",
+            "Homólogos": "MINOXIDIL 5% SOL TOP X 60 ML",
+            "Equivalentes": "MINOXIDIL",
+            "barcode": "7809591402278"
+        },
+        {
+            "code": "144304",
+            "description": "TRIM PINZA CEJA PTA.DEREC",
+            "Existencia": "3",
+            "price": "1640",
+            "type": "CUIDADO PERSONAL",
+            "barcode": "071603002142"
+        },
+        {
+            "code": "117176193942439",
+            "description": "TRIPLE OMEGA 3-6-9",
+            "Existencia": "3",
+            "price": "4300",
+            "type": "NATURALES",
+            "barcode": "7800038000026"
+        },
+        {
+            "code": "401001",
+            "description": "VIT E CAP 400 UI  X 30",
+            "Existencia": "45",
+            "price": "1700",
+            "type": "NATURALES",
+            "barcode": "7803501004026"
+        },
+        {
+            "code": "110255110001888",
+            "description": "XARELTO COM 20 MG X 28",
+            "Existencia": "1",
+            "price": "76970",
+            "type": "MARCA",
+            "Homólogos": "RIVAROXABÁN COM REC 20 MG X 28",
+            "Equivalentes": "RIVAROXABÁN",
+            "barcode": "7795320000153"
+        },
+        {
+            "code": "7804612010913",
+            "description": "XINDER UNG X 25 GR",
+            "Existencia": "3",
+            "price": "8220",
+            "type": "MARCA",
+            "Homólogos": "CLOBETASOL UNG X 25 GR",
+            "Equivalentes": "CLOBETASOL",
+            "barcode": "7804612010913"
+        },
+        {
+            "code": "12008",
+            "description": "XUMADOL 1 GR X 20 COM",
+            "Existencia": "2",
+            "price": "5440",
+            "type": "MARCA BE",
+            "Homólogos": "PARACETAMOL 1 GR X 18",
+            "Equivalentes": "PARACETAMOL",
+            "barcode": "7809591401806"
+        },
+        {
+            "code": "111579162601934",
+            "description": "ZILFIC 100 MG X 1",
+            "Existencia": "6",
+            "price": "2570",
+            "type": "MARCA BE",
+            "Homólogos": "SILDENAFIL 100MG X 1 COMP",
+            "Equivalentes": "SILDENAFIL",
+            "barcode": "7800063311395"
+        },
+        {
+            "code": "112382121115758",
+            "description": "ZILFIC FLASH 50 MG X 6",
+            "Existencia": "1",
+            "price": "6700",
+            "type": "MARCA",
+            "Homólogos": "SILDENAFIL 50MG X 1 COMP BIO",
+            "Equivalentes": "SILDENAFIL",
+            "barcode": "7800063311128"
+        },
+        {
+            "code": "107756130221411",
+            "description": "ZINCOVIT PLUS JBE X 120 ML",
+            "Existencia": "1",
+            "price": "12910",
+            "type": "MARCA",
+            "Homólogos": "VITAMINAS/ZINC JBE X 120 ML",
+            "Equivalentes": "VITAMINAS/ZINC",
+            "barcode": "7809591401240"
+        }
+    ]
+}
