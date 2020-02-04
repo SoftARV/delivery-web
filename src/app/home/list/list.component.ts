@@ -11,6 +11,7 @@ import { debounceTime } from 'rxjs/operators';
 import { products } from '../../shared/data-test.json';
 import { SettingsComponent } from '../settings/settings.component';
 import { PopupService } from '../../shared/popup/services/popup.service';
+import { ShoppingCartComponent } from '../shopping-cart/shopping-cart.component';
 
 
 @Component({
@@ -57,13 +58,10 @@ export class ListComponent implements OnInit {
 
   openSettings() {
     const popup = this.popupService.open(SettingsComponent);
-    popup.afterClosed.subscribe(response => {
-      console.log(response);
-    });
   }
 
   openShoppingCart() {
-
+    const popup = this.popupService.open(ShoppingCartComponent);
   }
 
 }

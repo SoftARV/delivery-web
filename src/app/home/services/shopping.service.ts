@@ -26,6 +26,10 @@ export class ShoppingService {
     return this.userInfo;
   }
 
+  get cartList() {
+    return this.cart;
+  }
+
   public addProductToCart(product: any, quantity: number) {
     if (this.cart.find(p => p.product.code === product.code)) {
       this.cart.map(p => {
@@ -38,6 +42,6 @@ export class ShoppingService {
   }
 
   public removeFromCart(code) {
-    this.cart = this.cart.filter(p => p.product.code === code);
+    this.cart = this.cart.filter(p => p.product.code !== code);
   }
 }

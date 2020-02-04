@@ -1,0 +1,113 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .cart {
+    position: relative;
+    width: 600px;
+    background-color: #55565A;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    .header {
+      height: 80px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0 30px;
+      border-bottom: 1px solid #ffffff;
+    }
+    .bottom {
+      height: 80px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0 30px;
+      border-top: 1px solid #ffffff;
+      button {
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: 600;
+        border: 1px solid #ffffff;
+        background-color: transparent;
+        outline: none;
+        color: #ffffff;
+        height: 40px;
+        width: 150px;
+        &:hover {
+          opacity: 0.5;
+        }
+        &:disabled {
+          opacity: 0.5;
+        }
+      }
+    }
+    .title {
+      margin: 0;
+      font-weight: 500;
+    }
+    .close-button {
+      background-color: transparent;
+      color: #ffffff;
+      border: none;
+      &:hover {
+        color: #ffffffe1;
+      }
+    }
+    .cart-list {
+      flex: 1;
+      padding: 10px 30px;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      max-height: 400px;
+      box-sizing: border-box;
+      .item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        min-height: 60px;
+        margin-top: 10px;
+        .info {
+          flex: 1;
+          p {
+            margin: 0;
+          }
+        }
+        button {
+          width: 80px;
+        }
+      }
+      .empty {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        h1 {
+          margin: 0;
+          font-weight: 500;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 520px) {
+  .overlay {
+    .cart {
+      box-sizing: border-box;
+      width: 100vw;
+      height: 100vh;
+      .cart-list {
+        flex: 1;
+        max-height: 100%;
+      }
+    }
+  }
+}
