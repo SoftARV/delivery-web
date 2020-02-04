@@ -6,7 +6,9 @@
     </button>
   </div>
   <div class="search">
-    <input placeholder="Search" type="text">
+    <fa class="search-icon" name="search"></fa>
+    <!-- <fa class="spinner-icon" name="spinner" animation="spin"></fa> -->
+    <input [formControl]="search" placeholder="Search" type="text">
   </div>
   <ul #list>
     <li 

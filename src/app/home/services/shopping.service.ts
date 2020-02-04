@@ -13,7 +13,6 @@ export class ShoppingService {
   };
   private cart: {product: any, quantity: number}[];
   public isInfoSet = false;
-  
 
   constructor() {
     this.cart = [];
@@ -36,5 +35,9 @@ export class ShoppingService {
       this.cart.push({product, quantity});
     }
     console.log(this.cart);
+  }
+
+  public removeFromCart(code) {
+    this.cart = this.cart.filter(p => p.product.code === code);
   }
 }

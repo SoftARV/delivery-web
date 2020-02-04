@@ -6,6 +6,7 @@
   transition: ease-out 0.5s;
   display: flex;
   flex-direction: column;
+  background-color: #55565A;
   .header {
     padding: 0 20px;
     position: absolute;
@@ -38,10 +39,23 @@
     top: 80px;
     left: 0;
     right: 0;
-    height: 40px;
+    height: 60px;
     background-color: #55565A;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    .search-icon {
+      position: absolute;
+      left: 20px;
+    }
+    .spinner-icon {
+      position: absolute;
+      right: 20px;
+    }
     >input {
+      padding: 0 20px;
+      height: 40px !important;
       outline: none;
       font-size: 16px;
       background-color: #55565A;
@@ -58,7 +72,7 @@
   ul {
     margin: 0;
     background-color: #55565A;
-    margin-top: 120px;
+    margin-top: 140px;
     list-style: none;
     padding: 0;
     overflow-y: auto;
@@ -96,6 +110,10 @@
     border-radius: 30px;
     border: none;
     box-shadow: 70px 61px 33px -41px rgba(0,0,0,0.51);
+    outline: none;
+    &:hover {
+      background-color: #ffffff80;
+    }
   }
 }
 
