@@ -11,32 +11,34 @@
     width: 500px;
     background-color: #ffffff;
     position: relative;
-    padding: 60px 20px 20px 20px;
+    padding: 0px 20px 0px 20px;
     color: #55565A;
     overflow-y: auto;
-    h1 {
-      position: absolute;
-      top: 20px;
-      margin: 0;
-      left: 30px;
-      font-weight: 500;
-    }
-    .close-button {
-      position: absolute;
-      top: 15px;
-      right: 15px;
-      background-color: transparent;
-      color: #4291be;
-      border: none;
-      &:hover {
-        color: #4290bee1;
+    .header {
+      height: 80px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      // margin: 0 30px;
+      h1 {
+        margin: 0;
+        font-weight: 500;
+      }
+      .close-button {
+        background-color: transparent;
+        color: #4291be;
+        border: none;
+        &:hover {
+          color: #4290bee1;
+        }
       }
     }
+    
     form {
       .group {
         display: flex;
         flex-direction: column;
-        margin-top: 30px;
+        margin-top: 20px;
         input {
           margin-top: 20px;
           margin-bottom: 10px;
@@ -98,9 +100,9 @@
   .overlay {
     .settings {
       box-sizing: border-box;
-      padding: 80px 20px 10px 20px;
+      padding: 0px 20px 0px 20px;
       width: 100vw;
-      height: 100vh;
+      height: 100%;
       .group {
         div {
           flex-direction: column;

@@ -1,9 +1,11 @@
 <div class="overlay">
   <div class="settings">
-    <h1>Settings</h1>
-    <button class="close-button" (click)="close()">
-      <fa name="times" size="3x"></fa>
-    </button>
+    <div class="header">
+      <h1>Settings</h1>
+      <button class="close-button" (click)="close()">
+        <fa name="times" size="3x"></fa>
+      </button>
+    </div>
     <form [formGroup]="settingsForm" (ngSubmit)="save()">
       <div formGroupName="address" class="group">
         <label for="">Address</label>

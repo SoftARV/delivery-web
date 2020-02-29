@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { USER_INFO } from 'src/app/shared/constants';
 
 @Injectable()
 export class ShoppingService {
@@ -16,10 +17,15 @@ export class ShoppingService {
 
   constructor() {
     this.cart = [];
+    const saveInfo = JSON.parse(localStorage.getItem(USER_INFO));
+    if (saveInfo) {
+      this.userInfo = saveInfo;
+    }
   }
 
   set saveUserInfo(userInfo) {
     this.userInfo = userInfo;
+    localStorage.setItem(USER_INFO, JSON.stringify(userInfo));
   }
 
   get getUserInfo() {

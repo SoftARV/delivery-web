@@ -10,10 +10,12 @@ import { ShoppingService } from '../services/shopping.service';
 export class ShoppingCartComponent implements OnInit {
   cart: any[];
   total: number;
+  isCheckoutActive: boolean;
 
   constructor(private ref: PopupRef, private shoppingService: ShoppingService) { }
 
   ngOnInit() {
+    this.isCheckoutActive = false;
     this.cart = this.shoppingService.cartList;
     this.calculateTotal();
   }
@@ -30,7 +32,7 @@ export class ShoppingCartComponent implements OnInit {
   }
 
   checkout() {
-
+    this.isCheckoutActive = true;
   }
 
   close() {
